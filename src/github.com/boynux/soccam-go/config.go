@@ -1,4 +1,4 @@
-package hello
+package soccam
 
 import (
     "encoding/json"
